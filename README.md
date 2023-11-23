@@ -1,7 +1,7 @@
 # Pandas-Challenge
 Week 4 Challenge
 
-District Summary
+District Summary:
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
@@ -15,7 +15,7 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
-School Summary
+School Summary:
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
